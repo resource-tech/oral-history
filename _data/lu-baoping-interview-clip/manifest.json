@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Lu Baoping interview clip" ] },
+    "homepage": [
+      {
+        "id": "http://www.nlc.cn/dsb_zt/xzzt/dbkrlj/lzsks/kslbp/201209/t20120917_66057.htm",
+        "type": "Text",
+        "label": { "en": [ "Lu Baoping interview clip" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "http://www.nlc.cn/dsb_zt/xzzt/dbkrlj/lzsks/",
+        "type": "Agent",
+        "label": { "en": [ "National Library of China" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 523.0,
+        "items": [
+          {
+            "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/lu-baoping/W020120917722358924308.wmv",
+                    "duration": 523.0
+                },
+                "target": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

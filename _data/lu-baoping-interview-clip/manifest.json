@@ -23,6 +23,14 @@
         "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
         "type": "Canvas",
         "duration": 523.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sunyanling123.github.io/oral-history/annotations/lu-baoping-interview-clip-canvas-1-transcript.json",
+            "label": "Transcript"
+          }
+        ],
         "items": [
           {
             "id": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/paintings",

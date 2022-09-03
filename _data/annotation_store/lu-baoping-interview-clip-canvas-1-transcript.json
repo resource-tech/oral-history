@@ -1,0 +1,1814 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sunyanling123.github.io/oral-history/annotations/lu-baoping-interview-clip-canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "在过到那以后",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "12.0,15.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联伯力军区领导给我们整编",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.0,26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的旗帜是中国八一旗帜",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.0,35.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "抗日联军",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "35.0,38.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "给我们很大的鼓励",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.0,41.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们在那三年",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "41.0,44.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "东北抗日联军没好过了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "44.0,50.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "八女投江",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.0,53.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "即使日本人经常围剿",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53.0,58.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "东北还留下一部分人",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.0,61.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "日本人就向苏联交涉",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61.0,66.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "要把这部分武装还给我们",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "66.0,73.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联不认证,没有那回事",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,79.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "日本通牒",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79.0,84.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "要交出起义人员八十几名",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "84.0,91.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联人拒绝",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91.0,97.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "造成了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "97.0,100.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "就这样我们过了三年",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "100.0,106.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "主要在苏联的任务",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "106.0,110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "就是反法西斯战争",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "110.0,115.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "陆老，八十八旅是怎样搞政治、文化学习和军事训练的",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115.0,122.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们在苏联的主要人员是志愿军待遇",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.0,130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "穿的完全都是志愿军待遇",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "130.0,138.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们不仅穿的都是苏联的军装",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.0,143.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "武器全部都是苏联供应",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143.0,147.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "生活都是苏联供应",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "147.0,151.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "主要是为了反法西斯战争",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "151.0,160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们阻止日本在苏联边界扰乱进攻苏联",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "160.0,170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的任务主要驻军第二战线",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "170.0,176.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们第一战线是前线",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "176.0,181.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "莫斯科那一带",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "181.0,184.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "第二战线是预备军队",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "184.0,190.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们周保中就任命当了旅长",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "190.0,195.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的训练完全是军事训练",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "195.0,201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "军事训练就是每周大电影",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201.0,211.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "看电影战争",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "211.0,214.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联战争的战场情况",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "214.0,220.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "电影我们经常看，用战争学习战争",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "220.0,226.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "每天广场上有一个牌子",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "226.0,232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "德国占领什么地方了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "232.0,236.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的部队",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "236.0,238.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏军退到什么地方了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "238.0,242.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "就这样进行学习",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242.0,246.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的地点离伯力军区三十公里",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "246.0,256.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "三十公里",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "256.0,259.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们的建军地就在瓦斯客村",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259.0,266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们在那建立了野营",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.0,269.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联本来是个丘陵",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "269.0,276.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "派了很多的拖拉机",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "276.0,280.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "周围树都拔掉了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "280.0,284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "搞了一个平地",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "284.0,286.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "安了发电机，大喇叭",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "286.0,297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "经常广播苏德战争情况",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "297.0,305.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们就不断地在战争当中战术交流很多",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305.0,314.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "游击战",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "314.0,319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "从游击战,阻击战,运动战",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "319.0,328.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "学习运动战",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "328.0,331.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "游击战就是你驻我扰,你走我追",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "331.0,338.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "这就是中国延安的办法",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "338.0,351.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "由于国民党围剿",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "351.0,356.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们和中国断了联系",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "356.0,361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "当时第三国际王明在那呢",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "361.0,370.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "由王明传达我们中国的情况",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.0,380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "内战情况就同时告诉我们",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "380.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "有一个战士在野营的时候支援种地被淹死了,这个情况你知道吗",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "苏联十月革命以后",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "397.0,402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "土地全部收了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "402.0,406.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "归国有,成立了集体农庄",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "406.0,413.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "我们建设野营的时候",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413.0,421.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "就是运沙石",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "421.0,424.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "运沙石",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "424.0,427.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "有一个姓侯的,姓李的",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "427.0,435.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "他们为了多装沙石",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "435.0,442.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "船翻了,淹死了",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "442.0,447.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "开了追悼会",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "447.0,451.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "金日成领导我们进行游行",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "451.0,457.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "送了花圈，放了鞭炮",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "457.0,461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "当时做了一口棺材",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "461.0,469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "送到我们城外一个小山上",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "469.0,474.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "金日成组织人送葬",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "474.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "埋葬的时候",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,482.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "金日成第一个人先填第一把土",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "482.0,486.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "后来我们大家放了抢",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "486.0,496.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "悼念抗日战争为革命牺牲",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "496.0,503.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "悼念大会",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "503.0,507.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lu-baoping-interview-clip-canvas-1-transcript-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "每年清明进行扫祭",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://sunyanling123.github.io/oral-history/lu-baoping-interview-clip/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "507.0,512.0"
+        }
+      }
+    }
+  ]
+}
